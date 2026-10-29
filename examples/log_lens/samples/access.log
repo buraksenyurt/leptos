@@ -1,0 +1,300 @@
+10.0.8.254 - - [25/Oct/2026:00:27:52 +0300] "GET /api/checkout HTTP/1.1" 200 49140 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.800
+10.0.15.55 - - [25/Oct/2026:00:38:51 +0300] "DELETE /api/checkout HTTP/1.1" 200 3214 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.673
+10.0.9.41 - - [25/Oct/2026:00:48:15 +0300] "POST /api/checkout HTTP/1.1" 200 24765 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.348
+10.0.8.53 - - [25/Oct/2026:00:59:04 +0300] "POST /api/products/42 HTTP/1.1" 200 5375 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.044
+10.0.13.144 - - [25/Oct/2026:01:34:17 +0300] "GET /static/app.js HTTP/1.1" 200 9579 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.011
+10.0.18.247 - - [25/Oct/2026:02:35:23 +0300] "GET /static/app.js HTTP/1.1" 200 44607 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.015
+10.0.7.151 - - [25/Oct/2026:03:10:10 +0300] "GET /static/app.js HTTP/1.1" 200 38707 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.007
+10.0.10.216 - - [25/Oct/2026:03:18:13 +0300] "GET /api/cart HTTP/1.1" 200 31867 "-" "curl/8.9.1" 0.145
+10.0.17.51 - - [25/Oct/2026:04:00:10 +0300] "POST /api/reports/monthly HTTP/1.1" 200 37870 "-" "curl/8.9.1" 1.024
+10.0.8.207 - - [25/Oct/2026:04:07:54 +0300] "POST /api/checkout HTTP/1.1" 200 37288 "-" "curl/8.9.1" 0.673
+10.0.19.51 - - [25/Oct/2026:04:21:12 +0300] "POST /api/checkout HTTP/1.1" 404 15281 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.341
+10.0.6.246 - - [25/Oct/2026:04:21:28 +0300] "GET /api/products/42 HTTP/1.1" 201 6567 "-" "curl/8.9.1" 0.032
+10.0.10.205 - - [25/Oct/2026:04:45:13 +0300] "GET / HTTP/1.1" 200 24111 "-" "curl/8.9.1" 0.020
+10.0.17.85 - - [25/Oct/2026:06:18:05 +0300] "GET /api/products/42 HTTP/1.1" 200 8861 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.034
+10.0.11.54 - - [25/Oct/2026:06:27:28 +0300] "DELETE /static/style.css HTTP/1.1" 200 10983 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.010
+10.0.1.214 - - [25/Oct/2026:06:27:59 +0300] "GET /api/search?q=rust HTTP/1.1" 500 7747 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.621
+10.0.16.30 - - [25/Oct/2026:06:35:07 +0300] "GET /api/cart HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.068
+10.0.20.131 - - [25/Oct/2026:07:04:52 +0300] "GET /login HTTP/1.1" 200 17531 "-" "curl/8.9.1" 0.005
+10.0.8.53 - - [25/Oct/2026:07:12:48 +0300] "POST /api/search?q=rust HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.250
+10.0.6.183 - - [25/Oct/2026:07:15:20 +0300] "GET /api/products HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.037
+10.0.11.148 - - [25/Oct/2026:07:25:45 +0300] "POST /api/reports/monthly HTTP/1.1" 200 21696 "-" "curl/8.9.1" 1.444
+10.0.7.95 - - [25/Oct/2026:07:28:19 +0300] "GET /api/checkout HTTP/1.1" 204 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.396
+10.0.9.103 - - [25/Oct/2026:07:30:29 +0300] "POST / HTTP/1.1" 200 20146 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.023
+10.0.17.85 - - [25/Oct/2026:07:32:03 +0300] "GET /login HTTP/1.1" 200 24514 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.060
+10.0.2.226 - - [25/Oct/2026:07:40:15 +0300] "GET /api/products/42 HTTP/1.1" 200 43120 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.053
+10.0.15.65 - - [25/Oct/2026:07:43:05 +0300] "GET /api/search?q=rust HTTP/1.1" 200 29257 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.306
+10.0.1.246 - - [25/Oct/2026:07:44:28 +0300] "GET /api/products HTTP/1.1" 304 - "-" "curl/8.9.1" 0.026
+10.0.4.164 - - [25/Oct/2026:07:56:04 +0300] "GET /api/checkout HTTP/1.1" 200 8205 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.689
+10.0.20.118 - - [25/Oct/2026:08:02:58 +0300] "DELETE /api/reports/monthly HTTP/1.1" 200 3514 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.268
+10.0.1.62 - - [25/Oct/2026:08:08:29 +0300] "POST /api/cart HTTP/1.1" 200 36520 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.061
+10.0.15.207 - - [25/Oct/2026:08:08:56 +0300] "GET /api/cart HTTP/1.1" 200 9870 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.089
+10.0.1.207 - - [25/Oct/2026:08:10:23 +0300] "POST /static/style.css HTTP/1.1" 200 11635 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.006
+10.0.13.125 - - [25/Oct/2026:08:10:30 +0300] "GET /api/products/42 HTTP/1.1" 200 23677 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.042
+10.0.0.171 - - [25/Oct/2026:08:10:48 +0300] "POST /api/checkout HTTP/1.1" 200 8507 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.343
+10.0.1.59 - - [25/Oct/2026:08:27:35 +0300] "GET /api/products HTTP/1.1" 200 29578 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.054
+10.0.14.90 - - [25/Oct/2026:08:30:45 +0300] "GET /api/cart HTTP/1.1" 200 3041 "-" "curl/8.9.1" 0.048
+10.0.1.59 - - [25/Oct/2026:08:31:02 +0300] "GET / HTTP/1.1" 200 31590 "-" "curl/8.9.1" 0.024
+10.0.3.40 - - [25/Oct/2026:08:31:30 +0300] "GET /api/products HTTP/1.1" 200 21309 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.036
+10.0.8.53 - - [25/Oct/2026:08:32:14 +0300] "POST /api/checkout HTTP/1.1" 200 41689 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.247
+10.0.3.191 - - [25/Oct/2026:08:44:21 +0300] "GET /api/checkout HTTP/1.1" 200 33331 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.329
+10.0.14.214 - - [25/Oct/2026:08:50:50 +0300] "GET /static/style.css HTTP/1.1" 401 14291 "-" "curl/8.9.1" 0.004
+10.0.5.137 - - [25/Oct/2026:08:51:37 +0300] "GET /login HTTP/1.1" 200 48015 "-" "curl/8.9.1" 0.078
+10.0.13.33 - - [25/Oct/2026:08:54:33 +0300] "GET /api/search?q=rust HTTP/1.1" 301 16904 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.216
+10.0.7.42 - - [25/Oct/2026:08:57:41 +0300] "PUT /api/products HTTP/1.1" 200 28503 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.057
+10.0.1.43 - - [25/Oct/2026:09:01:58 +0300] "POST /api/products/42 HTTP/1.1" 200 4130 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.025
+10.0.17.77 - - [25/Oct/2026:09:04:40 +0300] "PUT /login HTTP/1.1" 200 43803 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.047
+10.0.2.22 - - [25/Oct/2026:09:08:37 +0300] "GET /api/checkout HTTP/1.1" 200 20676 "-" "curl/8.9.1" 0.333
+10.0.19.252 - - [25/Oct/2026:09:09:50 +0300] "GET /api/cart HTTP/1.1" 200 23145 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.108
+10.0.16.30 - - [25/Oct/2026:09:13:53 +0300] "GET /api/checkout HTTP/1.1" 200 15021 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.552
+10.0.18.148 - - [25/Oct/2026:09:16:01 +0300] "PUT /api/checkout HTTP/1.1" 200 12023 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.179
+10.0.6.130 - - [25/Oct/2026:09:21:43 +0300] "GET /api/search?q=rust HTTP/1.1" 200 600 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.269
+10.0.10.72 - - [25/Oct/2026:09:23:06 +0300] "GET / HTTP/1.1" 200 49097 "-" "curl/8.9.1" 0.023
+10.0.15.55 - - [25/Oct/2026:09:33:48 +0300] "DELETE /login HTTP/1.1" 200 22540 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.069
+10.0.12.153 - - [25/Oct/2026:09:36:56 +0300] "GET /api/reports/monthly HTTP/1.1" 200 3647 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.489
+10.0.3.241 - - [25/Oct/2026:09:37:29 +0300] "GET / HTTP/1.1" 304 - "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.026
+10.0.2.251 - - [25/Oct/2026:09:37:33 +0300] "DELETE /static/app.js HTTP/1.1" 200 18102 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.012
+10.0.17.227 - - [25/Oct/2026:09:39:57 +0300] "POST /api/products HTTP/1.1" 200 28374 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.069
+10.0.3.250 - - [25/Oct/2026:09:42:40 +0300] "GET / HTTP/1.1" 200 26103 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.026
+10.0.10.55 - - [25/Oct/2026:09:44:12 +0300] "GET /api/checkout HTTP/1.1" 200 9193 "-" "curl/8.9.1" 0.461
+10.0.16.81 - - [25/Oct/2026:09:47:00 +0300] "POST /login HTTP/1.1" 200 8666 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.044
+10.0.10.27 - - [25/Oct/2026:09:49:33 +0300] "GET /static/style.css HTTP/1.1" 200 43981 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.010
+10.0.10.160 - - [25/Oct/2026:09:54:06 +0300] "GET /static/app.js HTTP/1.1" 200 20716 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.009
+10.0.19.7 - - [25/Oct/2026:09:55:23 +0300] "GET /login HTTP/1.1" 400 42152 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.051
+10.0.5.18 - - [25/Oct/2026:10:00:04 +0300] "GET /api/reports/monthly HTTP/1.1" 200 45394 "-" "curl/8.9.1" 1.298
+10.0.14.160 - - [25/Oct/2026:10:02:27 +0300] "GET /api/products HTTP/1.1" 200 28752 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.033
+10.0.3.98 - - [25/Oct/2026:10:02:31 +0300] "POST /api/cart HTTP/1.1" 200 11218 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.063
+10.0.3.40 - - [25/Oct/2026:10:03:42 +0300] "GET /static/style.css HTTP/1.1" 200 12907 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.013
+10.0.3.76 - - [25/Oct/2026:10:11:57 +0300] "POST /api/products/42 HTTP/1.1" 200 13128 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.033
+10.0.3.185 - - [25/Oct/2026:10:15:20 +0300] "GET /api/products HTTP/1.1" 200 41353 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.022
+10.0.17.215 - - [25/Oct/2026:10:15:56 +0300] "GET /api/reports/monthly HTTP/1.1" 200 41305 "-" "curl/8.9.1" 1.225
+10.0.3.250 - - [25/Oct/2026:10:18:08 +0300] "GET /api/products HTTP/1.1" 200 29180 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.030
+10.0.0.86 - - [25/Oct/2026:10:18:35 +0300] "GET /api/products HTTP/1.1" 200 30460 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.028
+10.0.20.19 - - [25/Oct/2026:10:20:22 +0300] "POST /api/search?q=rust HTTP/1.1" 503 19013 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.590
+10.0.9.130 - - [25/Oct/2026:10:26:01 +0300] "POST /static/style.css HTTP/1.1" 200 30524 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.013
+10.0.1.79 - - [25/Oct/2026:10:28:02 +0300] "POST /static/app.js HTTP/1.1" 500 37664 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.033
+10.0.6.76 - - [25/Oct/2026:10:31:05 +0300] "PUT / HTTP/1.1" 200 6983 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.015
+10.0.10.53 - - [25/Oct/2026:10:33:49 +0300] "GET /static/style.css HTTP/1.1" 204 - "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.011
+10.0.19.18 - - [25/Oct/2026:10:34:41 +0300] "GET /static/style.css HTTP/1.1" 200 10603 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.012
+10.0.14.74 - - [25/Oct/2026:10:39:20 +0300] "GET /login HTTP/1.1" 200 22375 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.057
+10.0.8.102 - - [25/Oct/2026:10:47:21 +0300] "GET /api/products HTTP/1.1" 200 44658 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.045
+10.0.10.15 - - [25/Oct/2026:10:47:40 +0300] "GET /api/reports/monthly HTTP/1.1" 200 22047 "-" "curl/8.9.1" 1.715
+10.0.11.91 - - [25/Oct/2026:10:51:07 +0300] "GET /api/products/42 HTTP/1.1" 200 46654 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.050
+10.0.0.169 - - [25/Oct/2026:10:52:44 +0300] "GET /login HTTP/1.1" 204 - "-" "curl/8.9.1" 0.069
+10.0.5.18 - - [25/Oct/2026:10:52:56 +0300] "GET /static/style.css HTTP/1.1" 200 1394 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.004
+10.0.12.153 - - [25/Oct/2026:10:53:46 +0300] "GET /api/cart HTTP/1.1" 200 32068 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.124
+10.0.0.169 - - [25/Oct/2026:10:57:04 +0300] "GET /api/products HTTP/1.1" 200 35574 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.122
+10.0.3.175 - - [25/Oct/2026:10:58:11 +0300] "PUT /api/reports/monthly HTTP/1.1" 200 39341 "-" "curl/8.9.1" 1.030
+10.0.20.96 - - [25/Oct/2026:10:58:44 +0300] "GET / HTTP/1.1" 200 24074 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.023
+10.0.14.231 - - [25/Oct/2026:11:02:44 +0300] "GET /api/checkout HTTP/1.1" 404 49256 "-" "curl/8.9.1" 0.473
+10.0.6.94 - - [25/Oct/2026:11:13:30 +0300] "GET /api/cart HTTP/1.1" 200 44653 "-" "curl/8.9.1" 0.061
+10.0.17.221 - - [25/Oct/2026:11:15:48 +0300] "GET /api/checkout HTTP/1.1" 404 25226 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.294
+10.0.11.54 - - [25/Oct/2026:11:15:56 +0300] "GET /api/products/42 HTTP/1.1" 200 3619 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.040
+10.0.17.221 - - [25/Oct/2026:11:18:23 +0300] "GET /api/products HTTP/1.1" 400 34010 "-" "curl/8.9.1" 0.058
+10.0.20.19 - - [25/Oct/2026:11:19:18 +0300] "GET /static/style.css HTTP/1.1" 200 28870 "-" "curl/8.9.1" 0.008
+10.0.9.103 - - [25/Oct/2026:11:22:39 +0300] "GET /api/search?q=rust HTTP/1.1" 200 27390 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.343
+10.0.2.238 - - [25/Oct/2026:11:27:20 +0300] "GET /api/search?q=rust HTTP/1.1" 200 2047 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.282
+10.0.11.57 - - [25/Oct/2026:11:27:53 +0300] "DELETE /api/products/42 HTTP/1.1" 200 2710 "-" "curl/8.9.1" 0.034
+10.0.8.117 - - [25/Oct/2026:11:28:21 +0300] "GET /static/app.js HTTP/1.1" 200 544 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.016
+10.0.6.103 - - [25/Oct/2026:11:33:25 +0300] "GET /api/cart HTTP/1.1" 503 9998 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.156
+10.0.20.128 - - [25/Oct/2026:11:37:36 +0300] "GET /api/checkout HTTP/1.1" 200 19936 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.377
+10.0.5.226 - - [25/Oct/2026:11:40:04 +0300] "POST /login HTTP/1.1" 201 41016 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.051
+10.0.10.160 - - [25/Oct/2026:11:42:47 +0300] "GET / HTTP/1.1" 201 33975 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.021
+10.0.9.157 - - [25/Oct/2026:11:44:30 +0300] "GET /api/checkout HTTP/1.1" 200 302 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.366
+10.0.0.169 - - [25/Oct/2026:11:44:53 +0300] "POST /static/style.css HTTP/1.1" 200 4635 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.008
+10.0.4.172 - - [25/Oct/2026:11:45:53 +0300] "GET /static/style.css HTTP/1.1" 200 1532 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.007
+10.0.6.248 - - [25/Oct/2026:11:47:17 +0300] "GET / HTTP/1.1" 200 4627 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.025
+10.0.18.247 - - [25/Oct/2026:11:59:21 +0300] "GET /api/reports/monthly HTTP/1.1" 403 49789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.140
+10.0.1.231 - - [25/Oct/2026:12:00:10 +0300] "POST /static/app.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.011
+10.0.1.104 - - [25/Oct/2026:12:04:04 +0300] "GET /api/products/42 HTTP/1.1" 200 47126 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.042
+10.0.2.114 - - [25/Oct/2026:12:05:06 +0300] "POST /api/cart HTTP/1.1" 200 20882 "-" "curl/8.9.1" 0.051
+10.0.14.222 - - [25/Oct/2026:12:12:23 +0300] "GET /static/style.css HTTP/1.1" 200 16801 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.015
+10.0.3.242 - - [25/Oct/2026:12:17:13 +0300] "GET /api/search?q=rust HTTP/1.1" 200 8357 "-" "curl/8.9.1" 0.277
+10.0.5.250 - - [25/Oct/2026:12:19:55 +0300] "GET /static/app.js HTTP/1.1" 200 22419 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.014
+10.0.3.241 - - [25/Oct/2026:12:22:45 +0300] "GET /api/checkout HTTP/1.1" 500 5614 "-" "curl/8.9.1" 1.685
+10.0.8.117 - - [25/Oct/2026:12:23:45 +0300] "GET /api/reports/monthly HTTP/1.1" 502 12026 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 3.449
+10.0.4.68 - - [25/Oct/2026:12:27:51 +0300] "GET /api/checkout HTTP/1.1" 200 39693 "-" "curl/8.9.1" 0.413
+10.0.8.73 - - [25/Oct/2026:12:29:45 +0300] "GET /api/search?q=rust HTTP/1.1" 200 2975 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.223
+10.0.11.226 - - [25/Oct/2026:12:30:11 +0300] "GET /api/products HTTP/1.1" 301 41980 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.014
+10.0.10.53 - - [25/Oct/2026:12:37:02 +0300] "GET /api/products/42 HTTP/1.1" 200 9557 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.052
+10.0.7.104 - - [25/Oct/2026:12:47:03 +0300] "GET /api/products HTTP/1.1" 200 42481 "-" "curl/8.9.1" 0.030
+10.0.18.64 - - [25/Oct/2026:12:48:09 +0300] "GET /api/reports/monthly HTTP/1.1" 200 39855 "-" "curl/8.9.1" 1.449
+10.0.10.72 - - [25/Oct/2026:12:51:38 +0300] "GET /api/products HTTP/1.1" 200 9223 "-" "curl/8.9.1" 0.065
+10.0.17.108 - - [25/Oct/2026:12:51:55 +0300] "PUT /api/search?q=rust HTTP/1.1" 204 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.212
+10.0.18.49 - - [25/Oct/2026:12:56:00 +0300] "GET /static/app.js HTTP/1.1" 200 25561 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.018
+10.0.19.192 - - [25/Oct/2026:12:56:18 +0300] "GET /api/checkout HTTP/1.1" 400 29446 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.496
+10.0.3.76 - - [25/Oct/2026:12:58:33 +0300] "PUT /api/products/42 HTTP/1.1" 200 29825 "-" "curl/8.9.1" 0.058
+10.0.1.149 - - [25/Oct/2026:13:01:02 +0300] "PUT /api/products HTTP/1.1" 500 44890 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.392
+10.0.6.49 - - [25/Oct/2026:13:02:30 +0300] "GET /static/style.css HTTP/1.1" 200 19229 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.008
+10.0.11.57 - - [25/Oct/2026:13:04:45 +0300] "GET /api/search?q=rust HTTP/1.1" 200 14895 "-" "curl/8.9.1" 0.290
+10.0.13.18 - - [25/Oct/2026:13:04:51 +0300] "GET / HTTP/1.1" 200 36508 "-" "curl/8.9.1" 0.023
+10.0.18.26 - - [25/Oct/2026:13:06:48 +0300] "PUT /static/style.css HTTP/1.1" 200 40304 "-" "curl/8.9.1" 0.011
+10.0.10.160 - - [25/Oct/2026:13:18:03 +0300] "GET /static/style.css HTTP/1.1" 200 27032 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.009
+10.0.15.57 - - [25/Oct/2026:13:19:40 +0300] "GET /api/search?q=rust HTTP/1.1" 204 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.333
+10.0.5.130 - - [25/Oct/2026:13:26:11 +0300] "DELETE /static/style.css HTTP/1.1" 201 38721 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.012
+10.0.4.109 - - [25/Oct/2026:13:26:21 +0300] "GET /login HTTP/1.1" 200 3831 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.072
+10.0.1.149 - - [25/Oct/2026:13:31:59 +0300] "POST /api/search?q=rust HTTP/1.1" 400 14976 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.162
+10.0.20.118 - - [25/Oct/2026:13:33:03 +0300] "POST /api/products HTTP/1.1" 200 13064 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.036
+10.0.5.189 - - [25/Oct/2026:13:34:39 +0300] "POST /api/reports/monthly HTTP/1.1" 200 6322 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.820
+10.0.13.179 - - [25/Oct/2026:13:34:44 +0300] "POST /api/reports/monthly HTTP/1.1" 200 10305 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 1.466
+10.0.10.170 - - [25/Oct/2026:13:36:25 +0300] "GET / HTTP/1.1" 200 3179 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.028
+10.0.18.247 - - [25/Oct/2026:13:36:51 +0300] "GET /api/reports/monthly HTTP/1.1" 200 40708 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.898
+10.0.11.226 - - [25/Oct/2026:13:39:02 +0300] "GET /static/app.js HTTP/1.1" 200 45091 "-" "curl/8.9.1" 0.007
+10.0.7.171 - - [25/Oct/2026:13:44:41 +0300] "GET /api/products HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.067
+10.0.1.167 - - [25/Oct/2026:13:46:01 +0300] "PUT /api/search?q=rust HTTP/1.1" 200 9615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.283
+10.0.10.216 - - [25/Oct/2026:13:46:55 +0300] "GET /api/search?q=rust HTTP/1.1" 200 8769 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.257
+10.0.8.12 - - [25/Oct/2026:13:47:36 +0300] "GET /static/app.js HTTP/1.1" 200 17729 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.006
+10.0.20.136 - - [25/Oct/2026:13:47:59 +0300] "GET /api/products HTTP/1.1" 200 19219 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.081
+10.0.1.167 - - [25/Oct/2026:13:49:19 +0300] "GET /api/search?q=rust HTTP/1.1" 200 47459 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.194
+10.0.17.51 - - [25/Oct/2026:13:52:04 +0300] "GET /static/app.js HTTP/1.1" 200 30793 "-" "curl/8.9.1" 0.007
+10.0.2.251 - - [25/Oct/2026:13:56:25 +0300] "POST /static/style.css HTTP/1.1" 200 15976 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.010
+10.0.11.150 - - [25/Oct/2026:13:58:39 +0300] "GET / HTTP/1.1" 200 18638 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.006
+10.0.8.192 - - [25/Oct/2026:13:58:59 +0300] "GET / HTTP/1.1" 200 28441 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.020
+10.0.5.139 - - [25/Oct/2026:13:59:02 +0300] "GET /login HTTP/1.1" 200 3165 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.039
+10.0.10.201 - - [25/Oct/2026:14:01:24 +0300] "GET /api/checkout HTTP/1.1" 200 25519 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.564
+10.0.7.42 - - [25/Oct/2026:14:01:45 +0300] "GET /api/checkout HTTP/1.1" 502 41044 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 1.672
+10.0.15.24 - - [25/Oct/2026:14:06:51 +0300] "GET /api/search?q=rust HTTP/1.1" 200 24160 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.212
+10.0.12.68 - - [25/Oct/2026:14:09:19 +0300] "DELETE /static/style.css HTTP/1.1" 200 32973 "-" "curl/8.9.1" 0.011
+10.0.1.220 - - [25/Oct/2026:14:16:18 +0300] "GET /static/style.css HTTP/1.1" 200 9960 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.010
+10.0.6.49 - - [25/Oct/2026:14:18:39 +0300] "POST /api/reports/monthly HTTP/1.1" 200 10849 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.767
+10.0.2.248 - - [25/Oct/2026:14:18:59 +0300] "GET /static/style.css HTTP/1.1" 503 33604 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.052
+10.0.9.157 - - [25/Oct/2026:14:19:40 +0300] "POST /api/checkout HTTP/1.1" 200 1290 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.298
+10.0.16.61 - - [25/Oct/2026:14:22:30 +0300] "POST / HTTP/1.1" 200 31302 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.027
+10.0.7.58 - - [25/Oct/2026:14:24:41 +0300] "POST /api/reports/monthly HTTP/1.1" 200 47477 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.634
+10.0.3.64 - - [25/Oct/2026:14:32:17 +0300] "GET /login HTTP/1.1" 200 44812 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.067
+10.0.14.214 - - [25/Oct/2026:14:40:17 +0300] "PUT /api/products HTTP/1.1" 200 1441 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.034
+10.0.17.38 - - [25/Oct/2026:14:40:37 +0300] "PUT /login HTTP/1.1" 200 40273 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.068
+10.0.11.231 - - [25/Oct/2026:14:41:12 +0300] "POST /api/products/42 HTTP/1.1" 200 13788 "-" "curl/8.9.1" 0.001
+10.0.2.248 - - [25/Oct/2026:14:45:08 +0300] "GET /api/search?q=rust HTTP/1.1" 200 30324 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.140
+10.0.16.61 - - [25/Oct/2026:14:46:02 +0300] "POST /api/search?q=rust HTTP/1.1" 304 - "-" "curl/8.9.1" 0.268
+10.0.16.30 - - [25/Oct/2026:14:47:46 +0300] "GET /api/cart HTTP/1.1" 200 18484 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.038
+10.0.13.250 - - [25/Oct/2026:14:52:05 +0300] "GET /api/checkout HTTP/1.1" 404 19140 "-" "curl/8.9.1" 0.386
+10.0.15.63 - - [25/Oct/2026:14:56:01 +0300] "GET /api/search?q=rust HTTP/1.1" 200 47494 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.128
+10.0.14.160 - - [25/Oct/2026:15:02:13 +0300] "GET /api/reports/monthly HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.381
+10.0.8.117 - - [25/Oct/2026:15:12:52 +0300] "GET /api/checkout HTTP/1.1" 200 19050 "-" "curl/8.9.1" 0.364
+10.0.17.34 - - [25/Oct/2026:15:18:14 +0300] "POST /api/checkout HTTP/1.1" 403 31596 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.513
+10.0.14.231 - - [25/Oct/2026:15:22:04 +0300] "GET /api/products/42 HTTP/1.1" 200 40549 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.064
+10.0.12.1 - - [25/Oct/2026:15:28:06 +0300] "PUT /static/style.css HTTP/1.1" 200 42008 "-" "curl/8.9.1" 0.010
+10.0.18.103 - - [25/Oct/2026:15:29:54 +0300] "GET /api/products HTTP/1.1" 304 - "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.058
+10.0.11.231 - - [25/Oct/2026:15:31:11 +0300] "POST /api/products/42 HTTP/1.1" 200 42987 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.065
+10.0.17.76 - - [25/Oct/2026:15:40:49 +0300] "DELETE /api/checkout HTTP/1.1" 200 18904 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.328
+10.0.8.40 - - [25/Oct/2026:15:42:32 +0300] "GET /api/reports/monthly HTTP/1.1" 200 35271 "-" "curl/8.9.1" 1.145
+10.0.7.222 - - [25/Oct/2026:15:43:00 +0300] "GET /api/products/42 HTTP/1.1" 200 26217 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.014
+10.0.14.74 - - [25/Oct/2026:15:50:08 +0300] "GET / HTTP/1.1" 200 19755 "-" "curl/8.9.1" 0.017
+10.0.8.192 - - [25/Oct/2026:15:51:50 +0300] "POST /static/style.css HTTP/1.1" 200 32569 "-" "curl/8.9.1" 0.009
+10.0.20.16 - - [25/Oct/2026:15:55:35 +0300] "PUT /api/checkout HTTP/1.1" 200 7582 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.332
+10.0.10.205 - - [25/Oct/2026:15:56:48 +0300] "POST / HTTP/1.1" 403 22292 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.029
+10.0.1.220 - - [25/Oct/2026:15:58:08 +0300] "GET /api/products/42 HTTP/1.1" 200 42059 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.060
+10.0.3.223 - - [25/Oct/2026:15:58:40 +0300] "GET /login HTTP/1.1" 301 6451 "-" "curl/8.9.1" 0.037
+10.0.8.172 - - [25/Oct/2026:16:00:56 +0300] "GET /api/search?q=rust HTTP/1.1" 200 647 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.246
+10.0.17.23 - - [25/Oct/2026:16:06:00 +0300] "GET /api/reports/monthly HTTP/1.1" 401 37744 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 1.492
+10.0.11.226 - - [25/Oct/2026:16:07:44 +0300] "POST /api/cart HTTP/1.1" 200 43964 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.097
+10.0.18.225 - - [25/Oct/2026:16:11:19 +0300] "POST /api/checkout HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.537
+10.0.2.99 - - [25/Oct/2026:16:19:39 +0300] "GET /api/search?q=rust HTTP/1.1" 200 14673 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.259
+10.0.3.153 - - [25/Oct/2026:16:29:53 +0300] "GET /api/search?q=rust HTTP/1.1" 200 46202 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.294
+10.0.20.214 - - [25/Oct/2026:16:30:10 +0300] "POST /api/cart HTTP/1.1" 404 16417 "-" "curl/8.9.1" 0.065
+10.0.3.98 - - [25/Oct/2026:16:30:59 +0300] "POST /static/style.css HTTP/1.1" 400 23909 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.006
+10.0.20.131 - - [25/Oct/2026:16:31:10 +0300] "GET / HTTP/1.1" 503 36090 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.095
+10.0.6.234 - - [25/Oct/2026:16:32:04 +0300] "POST /api/search?q=rust HTTP/1.1" 200 29156 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.218
+10.0.3.250 - - [25/Oct/2026:16:34:01 +0300] "GET /api/reports/monthly HTTP/1.1" 200 6159 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.550
+10.0.8.12 - - [25/Oct/2026:16:37:10 +0300] "GET /static/style.css HTTP/1.1" 200 30136 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.008
+10.0.14.160 - - [25/Oct/2026:16:37:40 +0300] "GET /static/app.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.012
+10.0.3.92 - - [25/Oct/2026:16:39:16 +0300] "GET /api/cart HTTP/1.1" 200 4986 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.040
+10.0.17.38 - - [25/Oct/2026:16:42:09 +0300] "GET /api/products HTTP/1.1" 200 4148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.056
+10.0.0.171 - - [25/Oct/2026:16:49:03 +0300] "GET /login HTTP/1.1" 200 9075 "-" "curl/8.9.1" 0.057
+10.0.17.85 - - [25/Oct/2026:16:52:12 +0300] "GET /static/app.js HTTP/1.1" 200 24818 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.018
+10.0.2.3 - - [25/Oct/2026:16:52:44 +0300] "POST /api/products HTTP/1.1" 200 35409 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.071
+10.0.2.242 - - [25/Oct/2026:16:53:21 +0300] "POST /api/cart HTTP/1.1" 503 427 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.331
+10.0.6.238 - - [25/Oct/2026:16:54:52 +0300] "GET /login HTTP/1.1" 200 25056 "-" "curl/8.9.1" 0.005
+10.0.10.103 - - [25/Oct/2026:16:55:32 +0300] "GET /api/search?q=rust HTTP/1.1" 200 18264 "-" "curl/8.9.1" 0.314
+10.0.16.116 - - [25/Oct/2026:16:56:16 +0300] "GET /api/reports/monthly HTTP/1.1" 404 1225 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 1.956
+10.0.11.155 - - [25/Oct/2026:17:06:21 +0300] "GET /api/products HTTP/1.1" 200 2400 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.027
+10.0.17.85 - - [25/Oct/2026:17:09:52 +0300] "GET /login HTTP/1.1" 200 15557 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.070
+10.0.10.160 - - [25/Oct/2026:17:13:00 +0300] "GET /api/products/42 HTTP/1.1" 200 19157 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.043
+10.0.7.43 - - [25/Oct/2026:17:15:37 +0300] "GET /api/reports/monthly HTTP/1.1" 404 44275 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 2.087
+10.0.20.159 - - [25/Oct/2026:17:18:51 +0300] "POST /api/products/42 HTTP/1.1" 301 34360 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.042
+10.0.4.68 - - [25/Oct/2026:17:20:59 +0300] "POST /api/products/42 HTTP/1.1" 201 44682 "-" "curl/8.9.1" 0.051
+10.0.2.238 - - [25/Oct/2026:17:21:58 +0300] "PUT / HTTP/1.1" 200 42360 "-" "curl/8.9.1" 0.014
+10.0.2.108 - - [25/Oct/2026:17:22:00 +0300] "GET /login HTTP/1.1" 200 19853 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.029
+10.0.2.242 - - [25/Oct/2026:17:22:41 +0300] "GET /static/app.js HTTP/1.1" 200 14968 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.008
+10.0.10.72 - - [25/Oct/2026:17:26:08 +0300] "GET /login HTTP/1.1" 200 36722 "-" "curl/8.9.1" 0.090
+10.0.8.12 - - [25/Oct/2026:17:32:07 +0300] "GET /api/cart HTTP/1.1" 200 13525 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.075
+10.0.1.187 - - [25/Oct/2026:17:33:05 +0300] "GET /static/style.css HTTP/1.1" 401 12683 "-" "curl/8.9.1" 0.011
+10.0.12.231 - - [25/Oct/2026:17:33:18 +0300] "GET /api/reports/monthly HTTP/1.1" 200 2791 "-" "curl/8.9.1" 1.381
+10.0.1.8 - - [25/Oct/2026:17:33:34 +0300] "GET /api/cart HTTP/1.1" 200 20069 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.068
+10.0.11.225 - - [25/Oct/2026:17:35:25 +0300] "GET /api/products HTTP/1.1" 403 49635 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.038
+10.0.16.81 - - [25/Oct/2026:17:36:46 +0300] "GET /static/style.css HTTP/1.1" 200 18750 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.010
+10.0.4.140 - - [25/Oct/2026:17:45:03 +0300] "GET /api/search?q=rust HTTP/1.1" 200 17341 "-" "curl/8.9.1" 0.140
+10.0.1.167 - - [25/Oct/2026:17:45:18 +0300] "GET /api/search?q=rust HTTP/1.1" 200 24494 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.383
+10.0.13.84 - - [25/Oct/2026:17:57:26 +0300] "POST /api/reports/monthly HTTP/1.1" 200 48778 "-" "curl/8.9.1" 1.389
+10.0.1.43 - - [25/Oct/2026:17:58:26 +0300] "GET /api/checkout HTTP/1.1" 200 13057 "-" "curl/8.9.1" 0.543
+10.0.13.179 - - [25/Oct/2026:17:59:40 +0300] "GET /api/reports/monthly HTTP/1.1" 503 16304 "-" "curl/8.9.1" 2.467
+10.0.1.150 - - [25/Oct/2026:18:05:28 +0300] "GET /static/app.js HTTP/1.1" 200 11225 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.010
+10.0.17.76 - - [25/Oct/2026:18:07:50 +0300] "POST /static/style.css HTTP/1.1" 200 12261 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.014
+10.0.11.155 - - [25/Oct/2026:18:08:01 +0300] "DELETE /api/products HTTP/1.1" 502 43992 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.158
+10.0.3.174 - - [25/Oct/2026:18:08:17 +0300] "GET /login HTTP/1.1" 200 41533 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.064
+10.0.7.171 - - [25/Oct/2026:18:10:58 +0300] "POST /static/app.js HTTP/1.1" 200 4161 "-" "curl/8.9.1" 0.015
+10.0.10.72 - - [25/Oct/2026:18:19:42 +0300] "PUT / HTTP/1.1" 200 35079 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.019
+10.0.5.189 - - [25/Oct/2026:18:21:55 +0300] "PUT /static/style.css HTTP/1.1" 200 1323 "-" "curl/8.9.1" 0.010
+10.0.0.169 - - [25/Oct/2026:18:22:25 +0300] "GET /api/products/42 HTTP/1.1" 200 6512 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.030
+10.0.8.117 - - [25/Oct/2026:18:23:33 +0300] "GET /api/checkout HTTP/1.1" 404 26211 "-" "curl/8.9.1" 0.433
+10.0.20.214 - - [25/Oct/2026:18:29:58 +0300] "POST /static/app.js HTTP/1.1" 200 16138 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.012
+10.0.18.145 - - [25/Oct/2026:18:31:32 +0300] "POST /api/products HTTP/1.1" 200 25055 "-" "curl/8.9.1" 0.049
+10.0.8.73 - - [25/Oct/2026:18:32:05 +0300] "POST / HTTP/1.1" 201 819 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.019
+10.0.10.27 - - [25/Oct/2026:18:33:42 +0300] "GET /api/reports/monthly HTTP/1.1" 200 34813 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.041
+10.0.3.25 - - [25/Oct/2026:18:37:05 +0300] "POST /api/reports/monthly HTTP/1.1" 200 17966 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.351
+10.0.2.56 - - [25/Oct/2026:18:40:04 +0300] "GET / HTTP/1.1" 200 20810 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.021
+10.0.6.49 - - [25/Oct/2026:18:41:33 +0300] "GET /api/products/42 HTTP/1.1" 404 46908 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.053
+10.0.17.85 - - [25/Oct/2026:18:42:41 +0300] "GET /api/cart HTTP/1.1" 200 25703 "-" "curl/8.9.1" 0.025
+10.0.1.149 - - [25/Oct/2026:18:48:08 +0300] "GET /api/products/42 HTTP/1.1" 404 45374 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.037
+10.0.15.40 - - [25/Oct/2026:18:48:55 +0300] "POST /login HTTP/1.1" 200 5181 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.037
+10.0.8.12 - - [25/Oct/2026:18:50:56 +0300] "GET /api/reports/monthly HTTP/1.1" 200 21589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.514
+10.0.17.40 - - [25/Oct/2026:18:51:52 +0300] "GET /api/search?q=rust HTTP/1.1" 200 24803 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.262
+10.0.2.219 - - [25/Oct/2026:18:54:00 +0300] "GET /login HTTP/1.1" 200 40741 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.056
+10.0.2.99 - - [25/Oct/2026:18:57:10 +0300] "PUT /api/products/42 HTTP/1.1" 200 46840 "-" "curl/8.9.1" 0.050
+10.0.15.65 - - [25/Oct/2026:18:59:20 +0300] "GET /api/search?q=rust HTTP/1.1" 200 7182 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.417
+10.0.20.77 - - [25/Oct/2026:19:06:13 +0300] "GET /api/products HTTP/1.1" 200 5921 "-" "curl/8.9.1" 0.072
+10.0.15.129 - - [25/Oct/2026:19:09:42 +0300] "POST /static/style.css HTTP/1.1" 200 33783 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.009
+10.0.8.102 - - [25/Oct/2026:19:10:32 +0300] "GET /api/reports/monthly HTTP/1.1" 200 21461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 1.250
+10.0.3.64 - - [25/Oct/2026:19:16:20 +0300] "POST /login HTTP/1.1" 200 5750 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.056
+10.0.16.81 - - [25/Oct/2026:19:17:05 +0300] "GET /api/products/42 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.023
+10.0.8.73 - - [25/Oct/2026:19:19:18 +0300] "GET /api/checkout HTTP/1.1" 200 17790 "-" "curl/8.9.1" 0.396
+10.0.16.21 - - [25/Oct/2026:19:25:56 +0300] "GET /api/checkout HTTP/1.1" 200 5241 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.452
+10.0.4.109 - - [25/Oct/2026:19:28:12 +0300] "GET /static/app.js HTTP/1.1" 200 40614 "-" "curl/8.9.1" 0.011
+10.0.16.81 - - [25/Oct/2026:19:29:01 +0300] "DELETE /api/search?q=rust HTTP/1.1" 503 40844 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 1.149
+10.0.18.110 - - [25/Oct/2026:19:30:03 +0300] "GET /static/app.js HTTP/1.1" 200 28420 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.013
+10.0.10.126 - - [25/Oct/2026:19:32:56 +0300] "GET /api/reports/monthly HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.474
+10.0.19.192 - - [25/Oct/2026:19:34:09 +0300] "POST /api/products/42 HTTP/1.1" 200 21115 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.035
+10.0.2.3 - - [25/Oct/2026:19:35:54 +0300] "GET /api/search?q=rust HTTP/1.1" 200 18569 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.374
+10.0.3.153 - - [25/Oct/2026:19:37:37 +0300] "GET /api/reports/monthly HTTP/1.1" 200 39012 "-" "curl/8.9.1" 1.452
+10.0.7.198 - - [25/Oct/2026:19:44:13 +0300] "DELETE /api/cart HTTP/1.1" 200 19292 "-" "curl/8.9.1" 0.080
+10.0.2.99 - - [25/Oct/2026:19:45:44 +0300] "PUT /static/app.js HTTP/1.1" 200 41706 "-" "curl/8.9.1" 0.009
+10.0.1.231 - - [25/Oct/2026:19:53:55 +0300] "POST /login HTTP/1.1" 200 29630 "-" "curl/8.9.1" 0.074
+10.0.16.21 - - [25/Oct/2026:19:56:59 +0300] "PUT /static/style.css HTTP/1.1" 200 45531 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.009
+10.0.1.59 - - [25/Oct/2026:19:58:19 +0300] "DELETE /api/reports/monthly HTTP/1.1" 201 5769 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.254
+10.0.2.138 - - [25/Oct/2026:20:06:14 +0300] "DELETE /api/search?q=rust HTTP/1.1" 200 42601 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.169
+10.0.14.98 - - [25/Oct/2026:20:19:52 +0300] "GET /login HTTP/1.1" 200 891 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.043
+10.0.15.243 - - [25/Oct/2026:20:23:12 +0300] "GET /static/style.css HTTP/1.1" 403 34199 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.005
+10.0.13.7 - - [25/Oct/2026:20:29:29 +0300] "GET /login HTTP/1.1" 200 44735 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.049
+10.0.11.91 - - [25/Oct/2026:20:39:35 +0300] "GET / HTTP/1.1" 200 7051 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.016
+10.0.8.42 - - [25/Oct/2026:20:43:20 +0300] "DELETE /api/search?q=rust HTTP/1.1" 200 22683 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.430
+10.0.0.86 - - [25/Oct/2026:20:53:46 +0300] "GET /static/style.css HTTP/1.1" 200 23026 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.006
+10.0.8.17 - - [25/Oct/2026:21:02:43 +0300] "GET /api/checkout HTTP/1.1" 200 46781 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.474
+10.0.3.64 - - [25/Oct/2026:21:03:31 +0300] "POST /api/products HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.062
+10.0.12.231 - - [25/Oct/2026:21:07:08 +0300] "GET /static/style.css HTTP/1.1" 200 21891 "-" "curl/8.9.1" 0.003
+10.0.17.40 - - [25/Oct/2026:21:10:08 +0300] "GET /api/cart HTTP/1.1" 500 26745 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.273
+10.0.3.228 - - [25/Oct/2026:21:20:45 +0300] "GET /api/reports/monthly HTTP/1.1" 200 29663 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 1.013
+10.0.11.148 - - [25/Oct/2026:21:37:42 +0300] "POST /api/cart HTTP/1.1" 200 18441 "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.081
+10.0.15.55 - - [25/Oct/2026:21:40:32 +0300] "GET /static/style.css HTTP/1.1" 200 24172 "-" "curl/8.9.1" 0.004
+10.0.1.167 - - [25/Oct/2026:21:59:27 +0300] "POST /api/products HTTP/1.1" 200 44155 "-" "curl/8.9.1" 0.063
+10.0.8.17 - - [25/Oct/2026:21:59:33 +0300] "GET /api/reports/monthly HTTP/1.1" 200 38669 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.828
+10.0.3.64 - - [25/Oct/2026:22:16:38 +0300] "POST /static/app.js HTTP/1.1" 200 11506 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 0.012
+10.0.8.192 - - [25/Oct/2026:22:34:01 +0300] "GET /api/products HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) Firefox/131.0" 0.026
+10.0.5.202 - - [25/Oct/2026:22:40:55 +0300] "GET /api/cart HTTP/1.1" 200 7864 "-" "curl/8.9.1" 0.097
+10.0.10.62 - - [25/Oct/2026:22:48:27 +0300] "GET /api/reports/monthly HTTP/1.1" 200 37870 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 1.761
+10.0.3.76 - - [25/Oct/2026:22:54:05 +0300] "POST /static/app.js HTTP/1.1" 201 35417 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.008
+10.0.20.77 - - [25/Oct/2026:22:59:22 +0300] "GET /static/app.js HTTP/1.1" 200 9394 "-" "curl/8.9.1" 0.006
+10.0.5.139 - - [25/Oct/2026:23:05:29 +0300] "GET /api/reports/monthly HTTP/1.1" 200 23729 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)" 1.640
+10.0.7.222 - - [25/Oct/2026:23:21:37 +0300] "GET /static/style.css HTTP/1.1" 204 - "-" "curl/8.9.1" 0.009
+10.0.18.72 - - [25/Oct/2026:23:27:08 +0300] "DELETE /login HTTP/1.1" 400 29288 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) Safari/605.1.15" 0.052
+10.0.8.136 - - [25/Oct/2026:23:42:30 +0300] "POST /api/checkout HTTP/1.1" 200 18212 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0" 0.454
